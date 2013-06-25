@@ -15,3 +15,5 @@ If your looking to showcase your work, this is perfect for you, but please make 
 ```
 
 =============
+
+a lot of the code found in this page was created by codrops. make sure to check them out on [GitHub](http://github.com.codrops) and [online](tympanus.net/codrops)
