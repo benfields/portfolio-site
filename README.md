@@ -12,8 +12,6 @@ If your looking to showcase your work, this is perfect for you, but please make 
 --> the 'home' page is meant to be a blog
 --> change the <title> to whatever you like </title>
 --> let me know about issues
-
-
 ```
 
 =============
