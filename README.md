@@ -14,6 +14,13 @@ If your looking to showcase your work, this is perfect for you, but please make 
 --> let me know about issues
 ```
 
+- [ ] a task list item
+- [ ] list syntax required
+- [ ] normal **formatting**
+- [ ] incomplete
+- [x] completed
+
+
 =============
 
 ## Source Licenses
