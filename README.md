@@ -14,8 +14,6 @@ If your looking to showcase your work, this is perfect for you, but please make 
 --> let me know about issues
 ```
 
-[ ] on the 'about me' page have selections that relate to you
-
 =============
 
 ## Source Licenses
